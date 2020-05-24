@@ -16,6 +16,6 @@ This repo uses jupyter notebook based on Python 3 kernel.
 Packages required: seaborn, time, cvxopt, matplotlib, numpy
 
 ## To Run the Code
-To run the code, open the Project3_Q1_Q25.ipynb file in Jupyter Notebook and use Cell > Run All. 
+To run the code, open the Project3_Q1_Q25.ipynb file in Jupyter Notebook and use Cell > Run All. Project3_Q1_Q25_modifiedVI.ipynb can be run in a similar fashion for the results of Q25.
 
 
