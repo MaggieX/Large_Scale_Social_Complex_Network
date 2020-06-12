@@ -16,9 +16,9 @@ This repo uses Jupyter Notebook based on Python 3 kernel.
 Packages required: python-igraph, numpy, pandas, scipy, matplotlib, json, csv, statistics
 
 ## Run the code
-- Part 1 [Stock market]: Project4_Q1_Q5.ipynb
-- Part 2 [Uber Movement]: Project4_Q6_Q10.ipynb, Project4_Q11_Q15.ipynb
-- Part 3 [TSP algorithms comparison]: TSP-satsp.ipynb
+- **Part 1 [Stock market]**: Project4_Q1_Q5.ipynb
+- **Part 2 [Uber Movement]**: Project4_Q6_Q10.ipynb, Project4_Q11_Q15.ipynb
+- **Part 3 [TSP algorithms comparison]**: TSP-satsp.ipynb
 
 ## Processed Data for Part 2 & Part 3
 ```
