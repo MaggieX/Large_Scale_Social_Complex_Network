@@ -18,3 +18,7 @@
   -- Community structure of the directed network
 
 ## Project 3: Reinforcement Learning and Inverse Reinforcement Learning
+
+## Project 4: Graph Algorithms
+- Stock Market
+- Uber Movement data in Los Angeles
