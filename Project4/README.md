@@ -21,6 +21,7 @@ Packages required: python-igraph, numpy, pandas, scipy, matplotlib, json, csv, s
 - Part 3 [TSP algorithms comparison]: TSP-satsp.ipynb
 
 ## Data Included
+```
  uber_data
     ├── distance_matrix.csv
     ├── distance_matrix.txt
@@ -36,3 +37,4 @@ Packages required: python-igraph, numpy, pandas, scipy, matplotlib, json, csv, s
     ├── g_tri_thresh.txt
     ├── g_triangled.txt
     └── uber_gcc_simplified.txt
+ ```
