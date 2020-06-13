@@ -18,7 +18,7 @@ Packages required: python-igraph, numpy, pandas, scipy, matplotlib, json, csv, s
 ## Run the code
 - **Part 1 [Stock market]**: Project4_Q1_Q5.ipynb
 - **Part 2 [Uber Movement]**: Project4_Q6_Q10.ipynb, Project4_Q11_Q15.ipynb
-- **Part 3 [TSP algorithms comparison]**: TSP-satsp.ipynb
+- **Part 3 [TSP algorithms comparison]**: TSP_package_analysis.ipynb
 
 NOTE: we have deleted the following two files from the uber_data folder as the submission size was too large, depite compression.
 los_angeles-censustracts-2019-4-All-MonthlyAggregate.csv
